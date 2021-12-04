@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hao200257
 - 👀 I’m interested in learning new stuff. Be it AI/ML
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on whereve I can to gain more experience.
+- 💞️ I’m looking to collaborate on whatever I can to gain more experience.
 - 📫 How to reach me hao_200257@yahoo.co.uk
 
 <!---
